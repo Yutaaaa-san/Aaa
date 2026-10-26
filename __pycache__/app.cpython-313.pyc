@@ -1,174 +1,0 @@
-ó
-
-
-½Þj$ãóÊSSKJrJrJrJr SSKJr SSKrSSKrSSK	r	SSK
-r
-SSKrSSKrSSK
-r
-SSKJr SSKrSSKJr \"\5R)5R*r\S-r\S-rSr\"\5r\R8"5r\R<"5rSq S	S
-SS//SSS0S.
-r!S
-r"Sr#Sr$Sr%Sr&Sr'Sr(\RSS5S5r*\RSS5S5r+\RYS5S5r-\RYS5S5r.\RSS5S5r/\#"5 \S:Xa+\0"S5 \0"S 5 \0"S!5 \RcS"S#S	S$S%9 gg)&é)ÚFlaskÚjsonifyÚrequestÚrender_template)ÚPathN)Ú
-quote_plus)Ú
-BeautifulSoupz	words.csvz
-state.jsonzKhttps://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txtFõ	å¾æ©ä¸­Ú)
-ÚrunningÚphaseÚtotalÚcheckedÚ	potentialÚlogÚlastÚwords_loadedÚerrorsÚseencóà[ U[S'[SR[R"S5S-U-5 [SSS[S'SSS5 g!,(df   g=f)Nrrz%H:%M:%SÚ i°ÿÿÿ)ÚlockÚstateÚappendÚtimeÚstrftime)Úmsgs Ú#/mnt/data/WordHunter_NoLogin/app.pyrrsQÞ	
-Øf
-Ü
-e×ÑDMM¨*Ó5¸Ñ;¸cÑAÔBÜU| C DÐ)e÷
-úsAAÁ
-A-cóÚ[R5(aÂ[R"[R	SS95n[UR
-S/5[5(aUR
-S/5O/[S'[UR
-S05[5(aUR
-S05O0[S'[[S5[S'gg![a gf=f)Núutf-8©Úencodingrrr)Ú
-STATE_FILEÚexistsÚjsonÚloadsÚ	read_textÚ
-isinstanceÚgetÚlistrÚdictÚlenÚ	Exception)Úsaveds rÚ
-load_stater/sÀÜ×Ñ×Ñð	ÜJJz×3Ñ3¸WÐ3ÐEÓFEÜ?IÈ%Ï)É)ÐT_ÐacÓJdÔfj×?kÑ?k §¡¨;¸Ô!;ÐqsE+ÑÜ5?ÀÇ	Á	È&ÐRTÓ@UÔW[×5\Ñ5\EII f¨bÔ1ÐbdE&MÜ"¤5¨¡=Ó1E)Òðøôó	Ùð	úsCCÃ
-C*Ã)C*có[ [RS5nUR[R
-"[S[SS.SS9SS9 UR[5 SSS5 g!,(df   g=f)	Nz.tmprr)rrF)Úensure_asciir r!)rr#Úwith_suffixÚ
-write_textr%ÚdumpsrÚreplace)Útmps rÚ
-save_stater7%s^Þ	
-Ü×$Ñ$ VÓ,Øtzz´°kÑ0BÌEÐRXÉMÑ"ZÐinÑoð{Bñ	CØJÔ÷
-úsAA/Á/
-A=cóL/n[[SSS9n[R"U5HhnUR	S5=(d SR5R
-5n[R"SU5(dMWURU5 Mj SSS5 [S5 [R"[SS	S
-0S9nUR5 UR!SUR"R%555 [S
-5 ['[)U55n[+U5[,S'U$!,(df   N©=f![a!n[S[U5-5 SnANÒSnAff=f![a!n[S[U5-5 SnANSnAff=f)Nrz	utf-8-sig)Únewliner"Úwordú[a-z]{3,12}u#åèµè¾æ¸ã®èª­ã¿è¾¼ã¿å¤±æ: uè±åèªè¾æ¸ãåå¾ä¸­â¦éú
-User-AgentzWordHunter/1.0©ÚtimeoutÚheadersc3óÒ# UH]n[R"SUR5R55(dM=UR5R5v M_ g7f)r;N)ÚreÚ	fullmatchÚstripÚlower)Ú.0Úxs  rÚ	<genexpr>Úload_words.<locals>.<genexpr>:sFéÐwÒ0C¨1ÄrÇ|Â|ÐTbÐde×dkÑdkÓdm×dsÑdsÓdu×GvÓ&QWWY__×&Ð&Ò0Cùs<A'Á%A'u$è±åèªè¾æ¸ãåå¾ãã¾ããu8å¤§è¦æ¨¡è¾æ¸ã®åå¾å¤±æãåèµè¾æ¸ã§ç¶è¡: r)ÚopenÚ
-WORDS_FILEÚcsvÚ
-DictReaderr)rDrErBrCrr-rÚstrÚrequestsÚDICT_URLÚraise_for_statusÚextendÚtextÚ
-splitlinesÚsortedÚsetr,r)ÚwordsÚfÚrowÚwÚeÚrs      rÚ
-load_wordsr],sIØEð<Ü
-* b°;Ò
-?À1Ü~~ aÖ(ØWWV_×*¨×1Ñ1Ó3×9Ñ9Ó;Ü<< °×2Ó2ØLL Oñ)÷@ðQÜÐ,Ô-ÜLL¨2¸ÐFVÐ7WÑXØ	×ÑÔØ
-Ñw°·±×0AÑ0AÔ0CÓwÔwÜÐ2Ô3ô
-3u:ÓEÜ JE.ÑØL÷#@Õ
-?ûô
-ó<ÜÐ1´C¸³FÑ:×;Ñ;ûð<ûôóQÜÐFÌÈQËÑO×PÑPûðQúsTE
-A*D9ÂD9ÂE
-ÂA2E8Ä9
-EÅE
-ÅE
-Å
-
-E5ÅE0Å0E5Å8
-F#ÆFÆF#cóìS[U5RSS5-nURUSSS9nURS;dURS:¼aS	S
-[	UR5-4$URS:XagURS
-:waS	S[	UR5-4$UR
-R
-S5R5nSU-R5nURR5nURU5(aSU;dSU;dSU;agUR
-S5S;dSU;agg![RanS	S[	U5SS-4sSnA$SnAff=f)zKPublic directory lookup only. Absence is a hint, not proof of availability.z https://xboxgamertag.com/search/Ú+z%20éT)r?Úallow_redirects©ii­éôÚunknownz&XboxGamertag.com blocked/limited HTTP i)Ú	not_foundzXboxGamertag.com 404éÈzXboxGamertag.com HTTP Ú/z/search/Ú
-gamerscorezgames playedÚprofile)ÚfoundzXboxGamertag.com profile page)zhttps://xboxgamertag.comzhttps://www.xboxgamertag.comzenter a gamertag to lookup)rez)XboxGamertag.com no profile page returned)rdz1XboxGamertag.com response could not be classifiedz XboxGamertag.com network error: Néd)rr5r)Ústatus_coderNÚurlÚrstriprErSÚendswithrOÚRequestException)ÚtagÚsessrmr\Ú
-final_pathÚexpectedÚbodyr[s        rÚcheck_xboxgamertag_sitervCshà
-,¬z¸#«×/FÑ/FÀsÈEÓ/RÑ
-RCðLØHHS "°dHÐ;Ø==JÓ&¨!¯-©-¸3Ó*>ØÐFÌÈQÏ]É]ÓI[Ñ[Ð[Ð[Ø==CÓØ6Ø==CÓØÐ6¼¸Q¿]¹]Ó9KÑKÐKÐKØUU\\ #Ó&×,Ñ,Ó.
-Ø Ñ$×+Ñ+Ó-Øvv||~Ø×Ñx×(Ñ(¨l¸dÓ.BÀnÐX\ÓF\Ð`iÐmqÓ`qØ;à×ÑSÓ!Ð%aÓaðfBðFJófJØKØMøÜ×$Ñ$óLØÐ<¼sÀ1»vÀdÀs¸|ÑKÐKÕKûðLús7 A
-EÁ+EÁ<)EÂ&A>EÄ%EÅE3ÅE.Å(E3Å.E3có*SU-S-nS[U5-nURUSSS0S9nURS;dURS	:¼aS
-S[UR5-4$URS:waS
-S
-[UR5-4$[	UR
-S5nUR
-S5nUHgnURS5=(d SR5nURSSS9R5n	SU;dMQUR5U	;dMg g SUR
-R5;dSUR
-R5;agg![Ran
-S
-S[U
-5SS-4sSn
-A
-$Sn
-A
-ff=f)z^Search-engine index check. It only detects indexed public pages, not actual Xbox availability.zsite:xboxgamertag.com/search/ "Ú"z$https://html.duckduckgo.com/html/?q=r`r=ú(Mozilla/5.0 (compatible; WordHunter/1.0)r>rbrcrdz DuckDuckGo blocked/limited HTTP rfzDuckDuckGo HTTP zhtml.parserza.result__aÚhrefrrT)rDzxboxgamertag.com/search/)rjz!DuckDuckGo indexed profile resultÚresultz
-no results)rez*DuckDuckGo no exact indexed profile result)rdz+DuckDuckGo response could not be classifiedzDuckDuckGo network error: Nrk)rr)rlrNr	rSÚselectrEÚget_textrOrp)rqrrÚqrmr\ÚsoupÚlinksÚarzÚtitler[s           rÚcheck_search_indexr[sjà)¨CÑ/°#Ñ5AØ
-0´:¸a³=Ñ
-@CðFØHHS "¨|Ð=gÐ.hHÐiØ==JÓ&¨!¯-©-¸3Ó*>ØÐ@Ä3ÀqÇ}Á}ÓCUÑUÐUÐUØ==CÓØÐ0´3°q·}±}Ó3EÑEÐEÐEÜQVV ]Ó3ØMÓ*ÛAØEE&M×' R×.Ñ.Ó0DØJJs¨$JÐ/×5Ñ5Ó7EØ)¨TÕ1°c·i±i³kÀUÕ6JÙCñ	ðqvv||~Ó%¨¸¿¹¿¹»Ó)GØLØGøÜ×$Ñ$óFØÐ6¼¸Q»ÀÀ¸ÑEÐEÕEûðFús=AE!Á%)E!ÂA6E!Ä	E!ÄE!Ä!>E!Å!FÅ5F
-ÆFÆ
-Fcó¶S[S'[5n[ [SnUVs/sHo"U;dM
-UPM nn[U5[S'[U5[S'SSS5 W(dB[	S5 [ S[S'S	[S'SSS5 [
-R
-5 g[	[U5S
-S35 [R"5nURRSS
-05 S[S'UGHn[
-R5(a GO[R"5n[XT5upxUS:XaSn	[	SU35 OUS:Xa[XT5up«U
-S:XaESn	[ U[S;a[SR!U5 SSS5 [	SU35 O8U
-S:XaSn	[	SU35 O!Sn	[	SU35 OSn	[	SU35 [ U	[SU'[[S5[S'[#S[SR%555[S'SSS5 ['5 S[R"5U-
--
-nUS:dGM[
-R)U5(dGM O [	[
-R5(aSOS5 [ S[S'S	[S'SSS5 [
-R
-5 gs snf!,(df   GN®=f!,(df   GN=f!,(df   GN=f!,(df   Nô=f![*a!n
-[	S[-U
-5-5 Sn
-A
-N¨Sn
-A
-ff=f!,(df   N=f![ S[S'S	[S'SSS5 O!,(df   O=f[
-R
-5 f=f) Nuè¾æ¸ãæºåä¸­r
-rrru'æªç¢ºèªã®åè£ã¯ããã¾ãããFrr
-Ú,uwèªãé çªã«ç¢ºèªãã¾ããå¤é¨ãµã¤ãã®è² è·ãé¿ãããã1åè£ãããæä½4ç§å¾æ©ãã¾ããr=ryuå¤é¨ãµã¤ãç§åä¸­rjÚ
-profile_foundu&é¤å¤ï¼ãã­ãã£ã¼ã«ç¢ºèªï¼: reru?åè£ï¼2ã¤ã®å¬éç§ä¼ã§ãã­ãã£ã¼ã«æªæ¤åºï¼: Úprofile_found_indexeduAé¤å¤ï¼æ¤ç´¢ã¤ã³ããã¯ã¹ã«ãã­ãã£ã¼ã«ããï¼: rdu,æªå¤å®ï¼å¤é¨ãµã¤ãå¿ç­ä¸æï¼: c3ó4# UHoS:XdM
-Sv M g7f)rdéN©)rFÚvs  rrHÚrun_scan.<locals>.<genexpr> séÐ%ZÒ1G¨AÐPYÉ>§a¡aÒ1Gùs		rg@ruåæ­¢ãã¾ãããu-è¾æ¸åè£ã®ç§åãçµäºãã¾ãããuã¨ã©ã¼: )rr]rr,rÚ
-stop_eventÚclearrOÚSessionr@ÚupdateÚis_setrÚ	monotonicrvrrÚsumÚvaluesr7Úwaitr-rN)rWrrZÚtodorrrqÚstartrÚnote_ar{ÚbÚnote_bÚdelayr[s              rÚrun_scanrts&ð7Ø-gÜÞ
-Ü=DÙ$Ó6u!°©
-AuDÐ6Ü  ZE'NÜ" 4yE)Ñ÷	ö
-ÜÐ9Ô:ØöTØ$E)ÑØ(E'N÷ô	×ÑÕôY	s4ymðSð
-Tô	UÜ×ÒÓ!Ø×Ñ\Ð+UÐVÔWØ3gÜCÜ× Ñ ×"Ñ"¢EÜNNÓ$EÜ/°Ó:IAàG|Ø(ÜÐ<¸S¸EÐBÕCØkÓ!Ü.¨sÓ9	ØÓ#Ø(FÞØ¤e¨KÑ&8Ó8Ü! +Ñ.×5Ñ5°cÔ:÷ôÐYÐZ]ÐY^Ð_Õ`Ø'\Ø4FÜÐ[Ð\_Ð[`ÐaÕbà&FÜÐFÀsÀeÐLÕMà"ÜÐBÀ3À%ÐHÔIÞØ%+f
-cÑ"Ü#&¤u¨V¡}Ó#5iÑ Ü"%Ñ%Z´°v±×1EÑ1EÔ1GÓ%ZÓ"Zh÷ô
-Là4>>Ó+¨eÑ3Ñ4EØqyZ__¨U×3Ô3±UñAôB	¤z×'8Ñ'8×':Ñ':Ñ#Ð@oÔpöØ$E)ÑØ(E'N÷ô	×ÑÕùòe7÷Tú÷bTú÷3ú÷ûôó$ÜMC FÑ"×#Ñ#ûð$ú÷TûTØ$E)ÑØ(E'N÷TTúô	×ÑÕúsÊML	©	L¶L¼&L	Á"MÂLÂ3CMÆ&L-Æ(AMÇ=AL?É1MÊMÊ$*MËM>ÌL	Ì	
-LÌMÌ
-L*Ì-
-L<	Ì7MÌ?
-M
-	Í	MÍ
-M;ÍM6Í1NÍ6M;Í;NÍ>
-NÎOÎN2Î)	OÎ2
-OÎ<Orgcó[S5$)Nz
-index.html)rrórÚindexr¯s
-ä<Ó(Ð(rz/api/statuscó"[ [[R5VVs0sHupUS:wdM
-X_M snn[	[S5[[
-[S55S.-5sSSS5 $s snnf!,(df   g=f)Nrr)Ú
-seen_countr)rrrÚitemsr,rUrV)Úkrs  rÚ
-api_statusr¤³sæ	
-Ü¬¯©¬ÔFª¡ ¸!¸v¹+©ÒFÔX[Ô\aÐbhÑ\iÓXjÔyôADôEJðKVñEWóAXózYñJZñZó[÷
-ùÛF÷
-ús B¤A:´A:º6BÁ:BÂ
-Bz
-/api/startcóL[ [S(a[SSS.5sSSS5 $S[S'S[S'SSS5 [R	5 [
-R"[SS9q[R5 [S	S05$!,(df   N\=f)
-NrFuãã§ã«ã¹ã­ã£ã³ä¸­ã§ã©ÚokÚmessageTu	éå§ä¸­r
-)ÚtargetÚdaemonr§)
-rrrrrÚ	threadingÚThreadrÚworkerrrrrÚ	api_startr®¸s~ö
-Ü×Ü %Ð4TÑUÓV÷
-ð iÑØ$g÷	
-ô
-×ÑÔÜ
-×
-Ò
-¤X°dÑ
-;FÜ
-LLNÜD$<Ó Ð ÷
-úsB­BÂ
-B#z	/api/stopcóF[R5 [SSS.5$)NTuåæ­¢ãè¦æ±ãã¾ããr¦)rrVrrrrÚapi_stopr°ÅsäNNÔÜ$Ð+HÑIÓJÐJrz/api/exportc
-óÒ[ [[[[S55[S[S[[S5S.5sSSS5 $!,(df   g=f)Nrrrr)rrrr¡)rrrUrVrr,rrrÚ
-api_exportr²Êsdæ	
-Ü¤V¬C´°kÑ0BÓ,CÓ%DÔQVÐW`ÑQaÔlqÐryÑlzôKNôOTðU[ñO\óK]ñ^ó_÷
-úsAAÁ
-A&Ú__main__u;
-WordHunter No-Loginï¼å¬éãã­ãã£ã¼ã«ç§åçï¼uRãã®PCã§èµ·åããåãWi-Fiã®iPhoneããã¢ã¯ã»ã¹ãã¦ãã ãããu(URL: http://<PCã®IPv4ã¢ãã¬ã¹>:8765z0.0.0.0i="T)ÚhostÚportÚdebugÚthreaded)2ÚflaskrrrrÚpathlibrrLr%ÚosrBÚsecretsr«rÚurllib.parserrOÚbs4r	Ú__file__ÚresolveÚparentÚBASErKr#rPÚ__name__ÚappÚRLockrÚEventrr­rrr/r7r]rvrrr)rr¤Úpostr®r°r²ÚprintÚrunrrrÚ<module>rÉs¨ðß:Ó:Ýß2×2×2Ó2Ý#ÛÝáH~×ÑÓ×&Ñ&Ø
-KÑ
-
-Ø
-LÑ
- 
-ØXÙHoØÓØ
-__Ó
-
-Ø	
-Ø K¸!ÈÐXZÐceÐoqðDEðQRð\^ñ	_ò*òò òò.Lò0Fò28ðvñ)óð)ðÓñ[óð[ð,Óñ
-!óð
-!ð+ÓñKóðKðÓñ_óð_ñØzÓÙ	Ð
-HÔIÙ	Ð
-^Ô_Ù	Ð
-4Ô5ØGG ¨U¸TGÒBð	r
